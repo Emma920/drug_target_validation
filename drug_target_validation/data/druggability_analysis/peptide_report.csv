@@ -1,0 +1,89 @@
+Target,Gene_Symbol,UniProt_ID,Protein_Name,Is_GPCR,Protein_Class,Has_Active_Site,Has_Binding_Site,Has_Pocket_Prediction,Has_Known_Ligands,Has_Ki_Data,Has_Kd_Data,Has_3D_Structure,Receptor_Status_Score,Binding_Pocket_Score,Binding_Data_Score,Overall_Peptide_Druggability,Approved_Drugs,Suitability_Category
+hydroxyapatite,,,,,,,,False,False,,,,10,7,10,8.9,,Excellent
+phospholipid ethers,,,,,,,,False,False,,,,10,7,10,8.9,,Excellent
+MC1R,MC1R,Q01726,Melanocyte-stimulating hormone receptor,True,,False,True,False,False,True,False,True,10,3,7,6.8,3.0,Good
+CCKBR,CCKBR,P32239,Gastrin/cholecystokinin type B receptor,True,,False,False,False,False,True,True,True,10,0,10,6.5,2.0,Good
+NTSR1,NTSR1,P30989,Neurotensin receptor type 1,True,,False,False,False,False,True,False,True,10,0,7,5.8,1.0,Moderate
+NK1R,TACR1,P25103,Substance-P receptor,True,,False,True,False,False,False,False,True,10,3,2,5.5,16.0,Moderate
+CD333,FGFR3,P22607,Fibroblast growth factor receptor 3,False,,True,True,False,False,True,True,True,0,7,10,4.9,22.0,Moderate
+CXCR4,CXCR4,P61073,C-X-C chemokine receptor type 4,True,,False,False,False,False,False,False,True,10,0,3,4.8,7.0,Moderate
+GLP1R,GLP1R,P43220,Glucagon-like peptide 1 receptor,True,,False,False,False,False,False,False,True,10,0,3,4.8,15.0,Moderate
+CCR2/CD192,CCR2,P41597,C-C chemokine receptor type 2,True,,False,False,False,False,False,False,True,10,0,3,4.8,8.0,Moderate
+CD45,PTPRC,P08575,Receptor-type tyrosine-protein phosphatase C,False,,True,True,False,False,True,False,True,0,7,7,4.2,2.0,Moderate
+histone deacetylase,HDAC1,Q13547,Histone deacetylase 1,False,,True,True,False,False,True,False,True,0,7,7,4.2,12.0,Moderate
+CD13,ANPEP,P15144,Aminopeptidase N,False,,True,True,False,False,True,False,True,0,7,7,4.2,1.0,Moderate
+TK1,TK1,P04183,"Thymidine kinase, cytosolic",False,,True,True,False,False,True,False,True,0,7,6,3.9,0.0,Limited
+DNMT1,DNMT1,P26358,DNA (cytosine-5)-methyltransferase 1,False,,True,True,False,False,False,True,True,0,7,6,3.9,2.0,Limited
+MET,MET,P08581,Hepatocyte growth factor receptor,False,,True,True,False,False,False,True,True,0,7,5,3.7,34.0,Limited
+VMAT2,SLC18A2,Q05940,Synaptic vesicular amine transporter,False,,False,True,False,False,True,True,True,0,3,10,3.5,13.0,Limited
+PTGS2/COX2,PTGS2,P35354,Prostaglandin G/H synthase 2,False,,True,True,False,False,False,False,True,0,7,3,3.2,74.0,Limited
+BTK,BTK,Q06187,Tyrosine-protein kinase BTK,False,,True,True,False,False,False,False,True,0,7,3,3.2,23.0,Limited
+EGFR,EGFR,P00533,Epidermal growth factor receptor,False,,True,True,False,False,False,False,True,0,7,3,3.2,75.0,Limited
+HER2,ERBB2,P04626,Receptor tyrosine-protein kinase erbB-2,False,,True,True,False,False,False,False,True,0,7,3,3.2,44.0,Limited
+IGF1R,IGF1R,P08069,Insulin-like growth factor 1 receptor,False,,True,True,False,False,False,False,True,0,7,3,3.2,20.0,Limited
+CA9,CA9,Q16790,Carbonic anhydrase 9,False,,True,True,False,False,False,False,True,0,7,3,3.2,5.0,Limited
+granzyme b,GZMB,P10144,Granzyme B,False,,True,False,False,False,True,False,True,0,4,7,3.1,0.0,Limited
+ACE2,ACE2,Q9BYF1,Angiotensin-converting enzyme 2,False,,True,True,False,False,False,False,True,0,7,2,2.9,0.0,Limited
+PARP1,PARP1,P09874,Poly [ADP-ribose] polymerase 1,False,,True,True,False,False,False,False,True,0,7,2,2.9,14.0,Limited
+melanin,TYR,P14679,Tyrosinase,False,,False,True,False,False,True,False,True,0,3,7,2.8,1.0,Limited
+SLC7A11,SLC7A11,Q9UPY5,Cystine/glutamate transporter,False,,False,True,False,False,True,False,True,0,3,7,2.8,0.0,Limited
+MDM2,MDM2,Q00987,E3 ubiquitin-protein ligase Mdm2,False,,False,True,False,False,True,False,True,0,3,7,2.8,4.0,Limited
+aromatic I-amino acid decarboxylase,DDC,P20711,Aromatic-L-amino-acid decarboxylase,False,,False,True,False,False,True,False,True,0,3,7,2.8,4.0,Limited
+ESR1,ESR1,P03372,Estrogen receptor,False,,False,True,False,False,True,False,True,0,3,7,2.8,40.0,Limited
+CD38,CD38,P28907,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,False,,True,False,False,False,False,True,True,0,4,5,2.6,4.0,Limited
+CD22,CD22,P20273,B-cell receptor CD22,False,,False,True,False,False,False,True,True,0,3,6,2.5,10.0,Limited
+PGR,PGR,P06401,Progesterone receptor,False,,False,True,False,False,True,False,True,0,3,6,2.5,28.0,Limited
+CD46,CD46,P15529,Membrane cofactor protein,False,,False,False,False,False,,,True,0,0,10,2.5,0.0,Limited
+CD44v6,CD44,P16070,CD44 antigen,False,,False,True,False,False,False,True,True,0,3,6,2.5,1.0,Limited
+integrin αvβ6,ITGB6,P18564,Integrin beta-6,False,,False,True,False,False,False,True,True,0,3,5,2.3,1.0,Limited
+NECTIN4,NECTIN4,Q96NY8,Nectin-4,False,,False,False,False,False,True,True,True,0,0,9,2.2,1.0,Limited
+TOP1,TOP1,P11387,DNA topoisomerase 1,False,,True,False,False,False,False,False,True,0,4,3,2.1,23.0,Limited
+PRG4,PRG4,Q96GM1,Phospholipid phosphatase-related protein type 2,False,,False,False,False,False,,,False,0,0,8,2.0,0.0,Limited
+SLC38A4,SLC38A4,Q969I6,Sodium-coupled neutral amino acid transporter 4,False,,False,False,False,False,,,False,0,0,8,2.0,0.0,Limited
+apoptosis,CASP3,P42574,Caspase-3,False,,True,False,False,False,False,False,True,0,4,2,1.9,1.0,Poor
+NR3C1,NR3C1,P04150,Glucocorticoid receptor,False,,False,False,False,False,True,False,True,0,0,7,1.8,65.0,Poor
+ITGA2B,ITGA2B,P08514,Integrin alpha-IIb,False,,False,True,False,False,False,False,True,0,3,3,1.8,4.0,Poor
+CHKA,CHKA,P35790,Choline kinase alpha,False,,False,True,False,False,False,False,True,0,3,3,1.8,2.0,Poor
+oncofetal fibronectin/FN1,FN1,P02751,Fibronectin,False,,False,False,False,False,True,False,True,0,0,7,1.8,5.0,Poor
+NPR3,NPR3,P17342,Atrial natriuretic peptide receptor 3,False,,False,True,False,False,False,False,True,0,3,3,1.8,0.0,Poor
+SLC1A5,SLC1A5,Q15758,Neutral amino acid transporter B(0),False,,False,True,False,False,False,False,True,0,3,3,1.8,0.0,Poor
+GLUT1,SLC2A1,P11166,"Solute carrier family 2, facilitated glucose transporter member 1",False,,False,True,False,False,False,False,True,0,3,3,1.8,0.0,Poor
+CD51/CD61,ITGAV,P06756,Integrin alpha-V,False,,False,True,False,False,False,False,True,0,3,3,1.8,7.0,Poor
+amyloid beta,APP,P05067,Amyloid-beta precursor protein,False,,False,True,False,False,False,False,True,0,3,2,1.5,13.0,Poor
+FOLR1,FOLR1,P15328,Folate receptor alpha,False,,False,True,False,False,False,False,True,0,3,2,1.5,3.0,Poor
+CD4,CD4,P01730,T-cell surface glycoprotein CD4,False,,False,False,False,False,False,True,True,0,0,6,1.5,5.0,Poor
+CD61,ITGB3,P05106,Integrin beta-3,False,,False,True,False,False,False,False,True,0,3,2,1.5,8.0,Poor
+CD279,PDCD1,Q15116,Programmed cell death protein 1,False,,False,False,False,False,False,True,True,0,0,6,1.5,26.0,Poor
+PLAUR,PLAUR,Q03405,Urokinase plasminogen activator surface receptor,False,,False,False,False,False,True,False,True,0,0,6,1.5,0.0,Poor
+ITGB5,ITGB5,P18084,Integrin beta-5,False,,False,True,False,False,False,False,True,0,3,2,1.5,1.0,Poor
+integrin αvβ5,ITGB5,P18084,Integrin beta-5,False,,False,True,False,False,False,False,True,0,3,2,1.5,1.0,Poor
+CD33,CD33,P20138,Myeloid cell surface antigen CD33,False,,False,True,False,False,False,False,True,0,3,2,1.5,5.0,Poor
+CV2A,SV2A,Q7L0J3,Synaptic vesicle glycoprotein 2A,False,,False,False,False,False,True,False,True,0,0,6,1.5,4.0,Poor
+VEGFA,VEGFA,P15692,"Vascular endothelial growth factor A, long form",False,,False,False,False,False,False,True,True,0,0,6,1.5,12.0,Poor
+MDM4,MDM4,O15151,Protein Mdm4,False,,False,False,False,False,False,True,True,0,0,6,1.5,0.0,Poor
+COL1A1,COL1A1,P02452,Collagen alpha-1(I) chain,False,,False,True,False,False,False,False,True,0,3,2,1.5,2.0,Poor
+SLC5A5,SLC5A5,Q92911,Sodium/iodide cotransporter,False,,False,True,False,False,False,False,False,0,3,1,1.3,0.0,Poor
+CD138,SDC1,P18827,Syndecan-1,False,,False,False,False,False,False,True,True,0,0,5,1.2,1.0,Poor
+CD326,EPCAM,P16422,Epithelial cell adhesion molecule,False,,False,False,False,False,False,True,True,0,0,5,1.2,8.0,Poor
+CD274,CD274,Q9NZQ7,Programmed cell death 1 ligand 1,False,,False,False,False,False,False,True,True,0,0,5,1.2,13.0,Poor
+TNF,TNF,P01375,Tumor necrosis factor,False,,False,False,False,False,False,False,True,0,0,3,0.8,12.0,Poor
+CD25,IL2RA,P01589,Interleukin-2 receptor subunit alpha,False,,False,False,False,False,False,False,True,0,0,3,0.8,8.0,Poor
+LAT1,SLC7A5,Q01650,Large neutral amino acids transporter small subunit 1,False,,False,False,False,False,False,False,True,0,0,3,0.8,0.0,Poor
+hypoxia,HIF1A,Q16665,Hypoxia-inducible factor 1-alpha,False,,False,False,False,False,False,False,True,0,0,3,0.8,0.0,Poor
+CD147,BSG,P35613,Basigin,False,,False,False,False,False,False,False,True,0,0,3,0.8,1.0,Poor
+HIST1,H1-1,Q02539,Histone H1.1,False,,False,False,False,False,False,False,True,0,0,3,0.8,0.0,Poor
+CD206,MRC1,P22897,Macrophage mannose receptor 1,False,,False,False,False,False,False,False,True,0,0,3,0.8,0.0,Poor
+CD223,LAG3,P18627,Lymphocyte activation gene 3 protein,False,,False,False,False,False,False,False,True,0,0,2,0.5,6.0,Poor
+TROP2,TACSTD2,P09758,Tumor-associated calcium signal transducer 2,False,,False,False,False,False,False,False,True,0,0,2,0.5,2.0,Poor
+CEA,CEACAM5,P06731,Cell adhesion molecule CEACAM5,False,,False,False,False,False,False,False,True,0,0,2,0.5,5.0,Poor
+CD3,CD3E,P07766,T-cell surface glycoprotein CD3 epsilon chain,False,,False,False,False,False,False,False,True,0,0,2,0.5,19.0,Poor
+CD20,MS4A1,P11836,B-lymphocyte antigen CD20,False,,False,False,False,False,False,False,True,0,0,2,0.5,17.0,Poor
+CD269,TNFRSF17,Q02223,Tumor necrosis factor receptor superfamily member 17,False,,False,False,False,False,False,False,True,0,0,2,0.5,5.0,Poor
+CD70,CD70,P32970,CD70 antigen,False,,False,False,False,False,False,False,True,0,0,2,0.5,3.0,Poor
+TNC,TNC,P24821,Tenascin,False,,False,False,False,False,False,False,True,0,0,2,0.5,4.0,Poor
+SLC34A2,SLC34A2,O95436,Sodium-dependent phosphate transport protein 2B,False,,False,False,False,False,False,False,False,0,0,1,0.2,1.0,Poor
+TSPO,TSPO,B1AH88,Putative peripheral benzodiazepine receptor-related protein,False,,False,False,False,False,False,False,False,0,0,1,0.2,2.0,Poor
+DLL3,DLL3,Q9NYJ7,Delta-like protein 3,False,,False,False,False,False,False,False,False,0,0,0,0.0,1.0,Poor
+CD276,CD276,Q5ZPR3,CD276 antigen,False,,False,False,False,False,False,False,False,0,0,0,0.0,2.0,Poor
+CLDN18.2,CLDN18,P56856,Claudin-18,False,,False,False,False,False,False,False,False,0,0,0,0.0,1.0,Poor
+CD37,CD37,P11049,Leukocyte antigen CD37,False,,False,False,False,False,False,False,False,0,0,0,0.0,3.0,Poor

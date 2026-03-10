@@ -1,0 +1,89 @@
+Target,Gene_Symbol,UniProt_ID,Protein_Name,Membrane_Type,Extracellular_Size_AA,Has_Extracellular,Ab_Clinical_Precedence,Ab_Tractable,Membrane_Accessibility_Score,Extracellular_Domain_Score,Clinical_Precedence_Score,Overall_Ab_Druggability,Approved_Drugs,Accessibility_Category
+HER2,ERBB2,P04626,Receptor tyrosine-protein kinase erbB-2,Type I TM,629.0,True,False,False,10,10,0,8.0,44.0,Excellent
+CD51/CD61,ITGAV,P06756,Integrin alpha-V,Type I TM,961.0,True,False,False,10,10,0,8.0,7.0,Excellent
+DLL3,DLL3,Q9NYJ7,Delta-like protein 3,Type I TM,465.0,True,False,False,10,10,0,8.0,1.0,Excellent
+amyloid beta,APP,P05067,Amyloid-beta precursor protein,Type I TM,683.0,True,False,False,10,10,0,8.0,13.0,Excellent
+integrin αvβ6,ITGB6,P18564,Integrin beta-6,Type I TM,687.0,True,False,False,10,10,0,8.0,1.0,Excellent
+CD22,CD22,P20273,B-cell receptor CD22,Type I TM,667.0,True,False,False,10,10,0,8.0,10.0,Excellent
+CD206,MRC1,P22897,Macrophage mannose receptor 1,Type I TM,1370.0,True,False,False,10,10,0,8.0,0.0,Excellent
+EGFR,EGFR,P00533,Epidermal growth factor receptor,Type I TM,620.0,True,False,False,10,10,0,8.0,75.0,Excellent
+integrin αvβ5,ITGB5,P18084,Integrin beta-5,Type I TM,695.0,True,False,False,10,10,0,8.0,1.0,Excellent
+ITGB5,ITGB5,P18084,Integrin beta-5,Type I TM,695.0,True,False,False,10,10,0,8.0,1.0,Excellent
+NPR3,NPR3,P17342,Atrial natriuretic peptide receptor 3,Type I TM,454.0,True,False,False,10,10,0,8.0,0.0,Excellent
+CD44v6,CD44,P16070,CD44 antigen,Type I TM,628.0,True,False,False,10,10,0,8.0,1.0,Excellent
+CD61,ITGB3,P05106,Integrin beta-3,Type I TM,691.0,True,False,False,10,10,0,8.0,8.0,Excellent
+CD13,ANPEP,P15144,Aminopeptidase N,Type II TM,934.0,True,False,False,10,10,0,8.0,1.0,Excellent
+CD223,LAG3,P18627,Lymphocyte activation gene 3 protein,Type I TM,427.0,True,False,False,10,10,0,8.0,6.0,Excellent
+ACE2,ACE2,Q9BYF1,Angiotensin-converting enzyme 2,Type I TM,722.0,True,False,False,10,10,0,8.0,0.0,Excellent
+CD45,PTPRC,P08575,Receptor-type tyrosine-protein phosphatase C,Type I TM,551.0,True,False,False,10,10,0,8.0,2.0,Excellent
+MET,MET,P08581,Hepatocyte growth factor receptor,Type I TM,907.0,True,False,False,10,10,0,8.0,34.0,Excellent
+CD276,CD276,Q5ZPR3,CD276 antigen,Type I TM,437.0,True,False,False,10,10,0,8.0,2.0,Excellent
+ITGA2B,ITGA2B,P08514,Integrin alpha-IIb,Type I TM,961.0,True,False,False,10,10,0,8.0,4.0,Excellent
+NECTIN4,NECTIN4,Q96NY8,Nectin-4,Type I TM,317.0,True,False,False,10,8,0,7.3,1.0,Good
+CA9,CA9,Q16790,Carbonic anhydrase 9,Type I TM,376.0,True,False,False,10,8,0,7.3,5.0,Good
+CD38,CD38,P28907,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Type II TM,257.0,True,False,False,10,8,0,7.3,4.0,Good
+CD4,CD4,P01730,T-cell surface glycoprotein CD4,Type I TM,370.0,True,False,False,10,8,0,7.3,5.0,Good
+CD333,FGFR3,P22607,Fibroblast growth factor receptor 3,Type I TM,352.0,True,False,False,10,8,0,7.3,22.0,Good
+CD46,CD46,P15529,Membrane cofactor protein,Type I TM,308.0,True,False,False,10,8,0,7.3,0.0,Good
+TROP2,TACSTD2,P09758,Tumor-associated calcium signal transducer 2,Type I TM,247.0,True,False,False,10,6,0,6.6,2.0,Good
+CD3,CD3E,P07766,T-cell surface glycoprotein CD3 epsilon chain,Type I TM,103.0,True,False,False,10,6,0,6.6,19.0,Good
+CD138,SDC1,P18827,Syndecan-1,Type I TM,231.0,True,False,False,10,6,0,6.6,1.0,Good
+CD147,BSG,P35613,Basigin,Type I TM,185.0,True,False,False,10,6,0,6.6,1.0,Good
+CD279,PDCD1,Q15116,Programmed cell death protein 1,Type I TM,145.0,True,False,False,10,6,0,6.6,26.0,Good
+TNF,TNF,P01375,Tumor necrosis factor,Type II TM,176.0,True,False,False,10,6,0,6.6,12.0,Good
+CD25,IL2RA,P01589,Interleukin-2 receptor subunit alpha,Type I TM,218.0,True,False,False,10,6,0,6.6,8.0,Good
+CD274,CD274,Q9NZQ7,Programmed cell death 1 ligand 1,Type I TM,219.0,True,False,False,10,6,0,6.6,13.0,Good
+IGF1R,IGF1R,P08069,Insulin-like growth factor 1 receptor,Type I TM,194.0,True,False,False,10,6,0,6.6,20.0,Good
+CD33,CD33,P20138,Myeloid cell surface antigen CD33,Type I TM,241.0,True,False,False,10,6,0,6.6,5.0,Good
+CD326,EPCAM,P16422,Epithelial cell adhesion molecule,Type I TM,241.0,True,False,False,10,6,0,6.6,8.0,Good
+CD70,CD70,P32970,CD70 antigen,Type II TM,154.0,True,False,False,10,6,0,6.6,3.0,Good
+CD269,TNFRSF17,Q02223,Tumor necrosis factor receptor superfamily member 17,Type II TM,53.0,True,False,False,10,4,0,5.9,5.0,Moderate
+CD37,CD37,P11049,Leukocyte antigen CD37,Multi-pass (4TM),149.0,True,False,False,7,6,0,5.2,3.0,Moderate
+CLDN18.2,CLDN18,P56856,Claudin-18,Multi-pass (4TM),82.0,True,False,False,7,4,0,4.5,1.0,Moderate
+melanin,TYR,P14679,Tyrosinase,Type I TM,0.0,False,False,False,10,0,0,4.5,1.0,Moderate
+CD20,MS4A1,P11836,B-lymphocyte antigen CD20,Multi-pass (4TM),51.0,True,False,False,7,4,0,4.5,17.0,Moderate
+CEA,CEACAM5,P06731,Cell adhesion molecule CEACAM5,GPI-Anchored,0.0,False,False,False,9,0,0,4.0,5.0,Moderate
+FOLR1,FOLR1,P15328,Folate receptor alpha,GPI-Anchored,0.0,False,False,False,9,0,0,4.0,3.0,Moderate
+PLAUR,PLAUR,Q03405,Urokinase plasminogen activator surface receptor,GPI-Anchored,0.0,False,False,False,9,0,0,4.0,0.0,Moderate
+TNC,TNC,P24821,Tenascin,Secreted,0.0,False,False,False,8,0,0,3.6,4.0,Limited
+oncofetal fibronectin/FN1,FN1,P02751,Fibronectin,Secreted,0.0,False,False,False,8,0,0,3.6,5.0,Limited
+VEGFA,VEGFA,P15692,"Vascular endothelial growth factor A, long form",Secreted,0.0,False,False,False,8,0,0,3.6,12.0,Limited
+granzyme b,GZMB,P10144,Granzyme B,Secreted,0.0,False,False,False,8,0,0,3.6,0.0,Limited
+COL1A1,COL1A1,P02452,Collagen alpha-1(I) chain,Secreted,0.0,False,False,False,8,0,0,3.6,2.0,Limited
+CCKBR,CCKBR,P32239,Gastrin/cholecystokinin type B receptor,GPCR,117.0,True,False,False,3,6,0,3.4,2.0,Limited
+SLC34A2,SLC34A2,O95436,Sodium-dependent phosphate transport protein 2B,Multi-pass (8TM),202.0,True,False,False,3,6,0,3.4,1.0,Limited
+NTSR1,NTSR1,P30989,Neurotensin receptor type 1,GPCR,130.0,True,False,False,3,6,0,3.4,1.0,Limited
+SLC5A5,SLC5A5,Q92911,Sodium/iodide cotransporter,Multi-pass (13TM),149.0,True,False,False,3,6,0,3.4,0.0,Limited
+SLC38A4,SLC38A4,Q969I6,Sodium-coupled neutral amino acid transporter 4,Multi-pass (10TM),247.0,True,False,False,3,6,0,3.4,0.0,Limited
+GLP1R,GLP1R,P43220,Glucagon-like peptide 1 receptor,GPCR,166.0,True,False,False,3,6,0,3.4,15.0,Limited
+SLC1A5,SLC1A5,Q15758,Neutral amino acid transporter B(0),Multi-pass (8TM),126.0,True,False,False,3,6,0,3.4,0.0,Limited
+CV2A,SV2A,Q7L0J3,Synaptic vesicle glycoprotein 2A,Multi-pass (12TM),174.0,True,False,False,3,6,0,3.4,4.0,Limited
+GLUT1,SLC2A1,P11166,"Solute carrier family 2, facilitated glucose transporter member 1",Multi-pass (12TM),74.0,True,False,False,3,4,0,2.8,0.0,Limited
+SLC7A11,SLC7A11,Q9UPY5,Cystine/glutamate transporter,Multi-pass (12TM),80.0,True,False,False,3,4,0,2.8,0.0,Limited
+CXCR4,CXCR4,P61073,C-X-C chemokine receptor type 4,GPCR,87.0,True,False,False,3,4,0,2.8,7.0,Limited
+LAT1,SLC7A5,Q01650,Large neutral amino acids transporter small subunit 1,Multi-pass (12TM),95.0,True,False,False,3,4,0,2.8,0.0,Limited
+MC1R,MC1R,Q01726,Melanocyte-stimulating hormone receptor,GPCR,68.0,True,False,False,3,4,0,2.8,3.0,Limited
+NK1R,TACR1,P25103,Substance-P receptor,GPCR,85.0,True,False,False,3,4,0,2.8,16.0,Limited
+CCR2/CD192,CCR2,P41597,C-C chemokine receptor type 2,GPCR,97.0,True,False,False,3,4,0,2.8,8.0,Limited
+PTGS2/COX2,PTGS2,P35354,Prostaglandin G/H synthase 2,Soluble/Peripheral,0.0,False,False,False,5,0,0,2.2,74.0,Limited
+CHKA,CHKA,P35790,Choline kinase alpha,Soluble/Peripheral,0.0,False,False,False,5,0,0,2.2,2.0,Limited
+TSPO,TSPO,B1AH88,Putative peripheral benzodiazepine receptor-related protein,Soluble/Peripheral,0.0,False,False,False,5,0,0,2.2,2.0,Limited
+aromatic I-amino acid decarboxylase,DDC,P20711,Aromatic-L-amino-acid decarboxylase,Soluble/Peripheral,0.0,False,False,False,5,0,0,2.2,4.0,Limited
+PGR,PGR,P06401,Progesterone receptor,Soluble/Peripheral,0.0,False,False,False,5,0,0,2.2,28.0,Limited
+hydroxyapatite,,,,,,,False,False,2,2,0,1.6,,Not Accessible
+phospholipid ethers,,,,,,,False,False,2,2,0,1.6,,Not Accessible
+PRG4,PRG4,Q96GM1,Phospholipid phosphatase-related protein type 2,Multi-pass (6TM),0.0,False,False,False,3,0,0,1.4,0.0,Not Accessible
+VMAT2,SLC18A2,Q05940,Synaptic vesicular amine transporter,Multi-pass (12TM),0.0,False,False,False,3,0,0,1.4,13.0,Not Accessible
+TK1,TK1,P04183,"Thymidine kinase, cytosolic",Intracellular,0.0,False,False,False,0,0,0,0.0,0.0,Not Accessible
+PARP1,PARP1,P09874,Poly [ADP-ribose] polymerase 1,Intracellular,0.0,False,False,False,0,0,0,0.0,14.0,Not Accessible
+ESR1,ESR1,P03372,Estrogen receptor,Intracellular,0.0,False,False,False,0,0,0,0.0,40.0,Not Accessible
+TOP1,TOP1,P11387,DNA topoisomerase 1,Intracellular,0.0,False,False,False,0,0,0,0.0,23.0,Not Accessible
+apoptosis,CASP3,P42574,Caspase-3,Intracellular,0.0,False,False,False,0,0,0,0.0,1.0,Not Accessible
+HIST1,H1-1,Q02539,Histone H1.1,Intracellular,0.0,False,False,False,0,0,0,0.0,0.0,Not Accessible
+NR3C1,NR3C1,P04150,Glucocorticoid receptor,Intracellular,0.0,False,False,False,0,0,0,0.0,65.0,Not Accessible
+DNMT1,DNMT1,P26358,DNA (cytosine-5)-methyltransferase 1,Intracellular,0.0,False,False,False,0,0,0,0.0,2.0,Not Accessible
+histone deacetylase,HDAC1,Q13547,Histone deacetylase 1,Intracellular,0.0,False,False,False,0,0,0,0.0,12.0,Not Accessible
+hypoxia,HIF1A,Q16665,Hypoxia-inducible factor 1-alpha,Intracellular,0.0,False,False,False,0,0,0,0.0,0.0,Not Accessible
+BTK,BTK,Q06187,Tyrosine-protein kinase BTK,Intracellular,0.0,False,False,False,0,0,0,0.0,23.0,Not Accessible
+MDM2,MDM2,Q00987,E3 ubiquitin-protein ligase Mdm2,Intracellular,0.0,False,False,False,0,0,0,0.0,4.0,Not Accessible
+MDM4,MDM4,O15151,Protein Mdm4,Intracellular,0.0,False,False,False,0,0,0,0.0,0.0,Not Accessible
