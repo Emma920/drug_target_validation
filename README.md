@@ -4,9 +4,7 @@ This is a pipeline used for selecting potential drug targets for RLT, the scorin
 ║                           SCORING REFERENCE                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-┌──────────────────────────────────────────────────────────────────────────────┐
 │ ANTIBODY SCORING                                                             │
-├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │ Factors included:                                                            │
 │ • Membrane Accessibility (45%) - Can antibody reach the target?              │
